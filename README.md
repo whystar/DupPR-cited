@@ -1,3 +1,5 @@
+The followings list the pull requests, issues, and comments cited in the paper "Redundancy, Context, and Preference: An Empirical Study of Duplicate Pull Requests in OSS Projects".
+
 ### List of cited pull requests and issues
 
 |  No.   | Pull request  | Source link
